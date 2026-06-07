@@ -1,16 +1,119 @@
-# React + Vite
+# 🌌 Parallel Universe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Parallel Universe** is an AI-powered decision intelligence platform that helps users explore alternate future pathways before making important life decisions.
 
-Currently, two official plugins are available:
+By leveraging Google's Gemini AI, the platform analyzes user choices, generates multiple future scenarios, compares outcomes, and provides personalized insights to support academic, career, and personal decision-making.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Why Parallel Universe?
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Every major decision creates multiple possible futures.
 
-## Expanding the ESLint configuration
+Parallel Universe allows users to visualize these possibilities by simulating different decision paths and evaluating their potential opportunities, risks, and long-term impacts before taking action.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+* 🤖 AI-powered future scenario generation using Gemini AI
+* 📊 Comparative outcome analysis
+* 🎯 Personalized decision recommendations
+* 🎓 Academic and career guidance
+* 📈 Risk and opportunity evaluation
+* 🔮 Multi-path future visualization
+* 💡 Actionable insights for informed decision-making
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+* CSS
+* Google Gemini API
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/farhana-code-hussain/Parallel-Universe.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Parallel-Universe
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+├── App.jsx
+├── InputPage.jsx
+├── CareerPage.jsx
+├── CareerResults.jsx
+├── gemini.js
+├── assets/
+└── backups/
+```
+
+---
+
+## 🎯 Use Cases
+
+* Career decision planning
+* Academic pathway selection
+* Skill development strategies
+* Goal evaluation and planning
+* Exploring consequences of alternative choices
+
+---
+
+## 🔮 Future Roadmap
+
+* Interactive future timeline visualization
+* User authentication and profiles
+* Saved decision history
+* Advanced analytics dashboard
+* AI-powered personalized growth plans
+* Mobile responsiveness improvements
+
+---
+
+## 👩‍💻 Author
+
+**Farhana Hussain**
+
+GitHub: https://github.com/farhana-code-hussain
+
+---
+
+## 🏆 Hackathon Submission
+
+Developed as part of the **Elite Coders Open Source Hackathon 2026**.
+
+---
+
+## 📄 License
+
+This project is available for educational and demonstration purposes.
