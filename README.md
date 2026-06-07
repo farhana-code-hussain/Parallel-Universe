@@ -116,4 +116,4 @@ Developed as part of the **Elite Coders Open Source Hackathon 2026**.
 
 ## 📄 License
 
-This project is available for educational and demonstration purposes.
+Distributed under the MIT License. See `LICENSE` for more information.
